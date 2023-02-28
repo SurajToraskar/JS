@@ -12,6 +12,5 @@ function shuffle(array){
     }
     return array;
 }
-
 shuffle(cards);
 console.log(cards);
