@@ -1,3 +1,4 @@
+
 let a=0;
 let ask=window.prompt("Enter The Number Of Times You Want To Use:");
 ask=Number(ask);

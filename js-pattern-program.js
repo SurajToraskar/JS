@@ -1,3 +1,4 @@
+
 let rows=window.prompt("Enter The Rows:");
 let columns=window.prompt("Enter The Columns:");
 let symbol=window.prompt("Enter The Symbol:");
